@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2020-05-08T19:55:08 NPT" name="Pratice" finished-at="2020-05-08T19:56:00 NPT" duration-ms="51873">
+    <groups>
+    </groups>
+    <test started-at="2020-05-08T19:55:08 NPT" name="Pratice Test" finished-at="2020-05-08T19:56:00 NPT" duration-ms="51873">
+      <class name="com.pratice.testCases.TC_LoginTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.pratice.testCases.TC_LoginTest@7ee955a8]" started-at="2020-05-08T19:55:09 NPT" name="setUp" finished-at="2020-05-08T19:55:22 NPT" duration-ms="12592" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="LoginTest()[pri:0, instance:com.pratice.testCases.TC_LoginTest@7ee955a8]" started-at="2020-05-08T19:55:22 NPT" name="LoginTest" finished-at="2020-05-08T19:55:25 NPT" duration-ms="2930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pratice.testCases.TC_LoginTest@7ee955a8]" started-at="2020-05-08T19:55:25 NPT" name="tearDown" finished-at="2020-05-08T19:55:25 NPT" duration-ms="878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pratice.testCases.TC_LoginTest -->
+      <class name="com.pratice.testCases.TC_AddCustomerTest">
+        <test-method is-config="true" signature="setUp(java.lang.String)[pri:0, instance:com.pratice.testCases.TC_AddCustomerTest@1677d1]" started-at="2020-05-08T19:55:25 NPT" name="setUp" finished-at="2020-05-08T19:55:37 NPT" duration-ms="11424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="addNewCustomer()[pri:0, instance:com.pratice.testCases.TC_AddCustomerTest@1677d1]" started-at="2020-05-08T19:55:37 NPT" name="addNewCustomer" finished-at="2020-05-08T19:55:59 NPT" duration-ms="22524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addNewCustomer -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.pratice.testCases.TC_AddCustomerTest@1677d1]" started-at="2020-05-08T19:55:59 NPT" name="tearDown" finished-at="2020-05-08T19:56:00 NPT" duration-ms="812" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.pratice.testCases.TC_AddCustomerTest -->
+    </test> <!-- Pratice Test -->
+  </suite> <!-- Pratice -->
+</testng-results>

@@ -1,0 +1,350 @@
+2020-04-20 14:10:39,570 - pratice -INFO - URL is Opened 
+2020-04-20 14:10:40,555 - pratice -INFO - Entered Username 
+2020-04-20 14:10:41,436 - pratice -INFO - Entered Password 
+2020-04-21 15:29:50,309 - pratice -INFO - URL is Opened 
+2020-04-21 15:29:50,937 - pratice -INFO - Entered Username 
+2020-04-21 15:29:51,571 - pratice -INFO - Entered Password 
+2020-04-21 15:31:37,374 - pratice -INFO - URL is Opened 
+2020-04-21 15:31:38,186 - pratice -INFO - Entered Username 
+2020-04-21 15:31:38,780 - pratice -INFO - Entered Password 
+2020-04-21 15:37:12,806 - pratice -INFO - URL is Opened 
+2020-04-21 15:37:13,170 - pratice -INFO - Entered Username 
+2020-04-21 15:37:13,655 - pratice -INFO - Entered Password 
+2020-04-21 16:09:48,593 - pratice -INFO - URL is Opened 
+2020-04-21 16:09:49,135 - pratice -INFO - Entered Username 
+2020-04-21 16:09:49,983 - pratice -INFO - Entered Password 
+2020-04-21 16:10:50,680 - pratice -INFO - URL is Opened 
+2020-04-21 16:10:51,072 - pratice -INFO - Entered Username 
+2020-04-21 16:10:51,339 - pratice -INFO - Entered Password 
+2020-04-21 16:13:48,685 - pratice -INFO - URL is Opened 
+2020-04-21 16:13:49,029 - pratice -INFO - Entered Username 
+2020-04-21 16:13:49,268 - pratice -INFO - Entered Password 
+2020-04-21 16:13:51,289 - pratice -INFO - Login test passed
+2020-04-22 11:56:52,473 - pratice -INFO - URL is Opened 
+2020-04-22 11:56:53,420 - pratice -INFO - Entered Username 
+2020-04-22 11:56:54,202 - pratice -INFO - Entered Password 
+2020-04-22 11:56:56,655 - pratice -INFO - Login test passed
+2020-04-22 12:01:11,738 - pratice -INFO - URL is Opened 
+2020-04-22 12:01:12,144 - pratice -INFO - Entered Username 
+2020-04-22 12:01:12,213 - pratice -INFO - Entered Password 
+2020-04-22 12:01:15,921 - pratice -INFO - Login test passed
+2020-04-22 14:42:03,881 - pratice -INFO - URL is Opened 
+2020-04-22 14:42:04,947 - pratice -INFO - Entered Username 
+2020-04-22 14:42:05,163 - pratice -INFO - Entered Password 
+2020-04-22 14:42:08,555 - pratice -INFO - Login test passed
+2020-04-22 18:15:17,678 - pratice -INFO - URL is Opened 
+2020-04-22 18:15:17,877 - pratice -INFO - Entered Username 
+2020-04-22 18:15:17,952 - pratice -INFO - Entered Password 
+2020-04-22 18:15:22,175 - pratice -INFO - Login test passed
+2020-04-22 18:47:29,652 - pratice -INFO - URL is Opened 
+2020-04-22 18:47:30,252 - pratice -INFO - Entered Username 
+2020-04-22 18:47:31,197 - pratice -INFO - Entered Password 
+2020-04-22 18:47:32,967 - pratice -INFO - Login test passed
+2020-04-23 13:01:55,666 - pratice -INFO - URL is Opened 
+2020-04-23 13:01:56,984 - pratice -INFO - Entered Username 
+2020-04-23 13:01:57,444 - pratice -INFO - Entered Password 
+2020-04-23 13:01:59,695 - pratice -INFO - Login test passed
+2020-04-23 13:06:23,190 - pratice -INFO - URL is Opened 
+2020-04-23 13:06:23,809 - pratice -INFO - Entered Username 
+2020-04-23 13:06:24,274 - pratice -INFO - Entered Password 
+2020-04-23 13:06:26,238 - pratice -INFO - Login test passed
+2020-04-23 13:26:00,231 - pratice -INFO - URL is Opened 
+2020-04-23 13:26:00,660 - pratice -INFO - Entered Username 
+2020-04-23 13:26:00,963 - pratice -INFO - Entered Password 
+2020-04-23 16:30:17,043 - pratice -INFO - URL is Opened 
+2020-04-23 16:30:17,531 - pratice -INFO - Entered Username 
+2020-04-23 16:30:17,907 - pratice -INFO - Entered Password 
+2020-04-23 16:30:19,963 - pratice -INFO - Login test passed
+2020-04-23 16:44:14,415 - pratice -INFO - user name provided
+2020-04-23 16:44:14,721 - pratice -INFO - password provided
+2020-04-23 16:44:21,209 - pratice -INFO - user name provided
+2020-04-23 16:44:21,425 - pratice -INFO - password provided
+2020-04-23 16:44:27,425 - pratice -INFO - user name provided
+2020-04-23 16:44:27,622 - pratice -INFO - password provided
+2020-04-23 16:44:33,436 - pratice -INFO - user name provided
+2020-04-23 16:44:33,629 - pratice -INFO - password provided
+2020-04-23 16:44:39,530 - pratice -INFO - user name provided
+2020-04-23 16:44:39,735 - pratice -INFO - password provided
+2020-04-23 16:47:56,381 - pratice -INFO - user name provided
+2020-04-23 16:47:56,726 - pratice -INFO - password provided
+2020-04-23 16:48:02,557 - pratice -INFO - user name provided
+2020-04-23 16:48:02,752 - pratice -INFO - password provided
+2020-04-23 16:48:08,173 - pratice -INFO - user name provided
+2020-04-23 16:48:08,378 - pratice -INFO - password provided
+2020-04-23 16:48:13,328 - pratice -INFO - Login passed
+2020-04-23 16:48:20,131 - pratice -INFO - user name provided
+2020-04-23 16:48:20,299 - pratice -INFO - password provided
+2020-04-23 16:48:26,009 - pratice -INFO - user name provided
+2020-04-23 16:48:26,180 - pratice -INFO - password provided
+2020-04-23 16:48:30,927 - pratice -INFO - Login passed
+2020-04-23 18:22:52,407 - pratice -INFO - URL is Opened 
+2020-04-23 18:22:52,815 - pratice -INFO - Entered Username 
+2020-04-23 18:22:53,052 - pratice -INFO - Entered Password 
+2020-04-23 18:22:56,035 - pratice -INFO - Login test passed
+2020-04-23 18:23:07,932 - pratice -INFO - User name is provided
+2020-04-23 18:23:08,161 - pratice -INFO - Passsword is provided
+2020-04-23 18:23:14,630 - pratice -INFO - providing customer details....
+2020-04-23 18:23:25,443 - pratice -INFO - validation started....
+2020-04-23 18:48:23,169 - pratice -INFO - User name is provided
+2020-04-23 18:48:23,416 - pratice -INFO - Passsword is provided
+2020-04-23 18:48:29,699 - pratice -INFO - providing customer details....
+2020-04-23 18:48:39,950 - pratice -INFO - validation started....
+2020-04-23 18:52:50,629 - pratice -INFO - User name is provided
+2020-04-23 18:52:51,697 - pratice -INFO - Passsword is provided
+2020-04-23 18:52:58,272 - pratice -INFO - providing customer details....
+2020-04-23 18:53:12,281 - pratice -INFO - validation started....
+2020-04-23 18:54:01,631 - pratice -INFO - User name is provided
+2020-04-23 18:54:02,002 - pratice -INFO - Passsword is provided
+2020-04-23 18:54:09,805 - pratice -INFO - providing customer details....
+2020-04-23 18:54:25,918 - pratice -INFO - validation started....
+2020-04-23 18:54:25,949 - pratice -INFO - test case passed....
+2020-04-23 18:57:25,302 - pratice -INFO - URL is Opened 
+2020-04-23 18:57:25,814 - pratice -INFO - Entered Username 
+2020-04-23 18:57:26,168 - pratice -INFO - Entered Password 
+2020-04-23 18:57:28,537 - pratice -INFO - Login test passed
+2020-04-23 18:57:43,176 - pratice -INFO - user name provided
+2020-04-23 18:57:43,474 - pratice -INFO - password provided
+2020-04-23 18:57:49,994 - pratice -INFO - user name provided
+2020-04-23 18:57:50,182 - pratice -INFO - password provided
+2020-04-23 18:57:55,890 - pratice -INFO - user name provided
+2020-04-23 18:57:56,065 - pratice -INFO - password provided
+2020-04-23 18:58:00,850 - pratice -INFO - Login passed
+2020-04-23 18:58:07,508 - pratice -INFO - user name provided
+2020-04-23 18:58:07,713 - pratice -INFO - password provided
+2020-04-23 18:58:13,952 - pratice -INFO - user name provided
+2020-04-23 18:58:14,168 - pratice -INFO - password provided
+2020-04-23 18:58:18,784 - pratice -INFO - Login passed
+2020-04-23 18:58:36,363 - pratice -INFO - User name is provided
+2020-04-23 18:58:36,672 - pratice -INFO - Passsword is provided
+2020-04-23 18:58:43,106 - pratice -INFO - providing customer details....
+2020-04-23 18:58:58,099 - pratice -INFO - validation started....
+2020-04-23 18:58:58,124 - pratice -INFO - test case passed....
+2020-04-23 19:02:56,754 - pratice -INFO - URL is Opened 
+2020-04-23 19:02:59,366 - pratice -INFO - Entered Username 
+2020-04-23 19:02:59,722 - pratice -INFO - Entered Password 
+2020-04-23 19:03:21,089 - pratice -INFO - user name provided
+2020-04-23 19:03:21,393 - pratice -INFO - password provided
+2020-04-23 19:03:27,421 - pratice -INFO - user name provided
+2020-04-23 19:03:27,861 - pratice -INFO - password provided
+2020-04-23 19:03:34,151 - pratice -INFO - user name provided
+2020-04-23 19:03:34,416 - pratice -INFO - password provided
+2020-04-23 19:03:39,425 - pratice -INFO - Login passed
+2020-04-23 19:03:46,003 - pratice -INFO - user name provided
+2020-04-23 19:03:46,224 - pratice -INFO - password provided
+2020-04-23 19:03:52,047 - pratice -INFO - user name provided
+2020-04-23 19:03:52,361 - pratice -INFO - password provided
+2020-04-23 19:03:57,509 - pratice -INFO - Login passed
+2020-04-23 19:04:16,389 - pratice -INFO - User name is provided
+2020-04-23 19:04:16,651 - pratice -INFO - Passsword is provided
+2020-04-23 19:04:23,829 - pratice -INFO - providing customer details....
+2020-04-23 19:04:39,148 - pratice -INFO - validation started....
+2020-04-23 19:04:39,171 - pratice -INFO - test case passed....
+2020-04-23 19:08:56,201 - pratice -INFO - user name provided
+2020-04-23 19:08:56,493 - pratice -INFO - password provided
+2020-04-23 19:09:03,416 - pratice -INFO - user name provided
+2020-04-23 19:09:03,614 - pratice -INFO - password provided
+2020-04-23 19:09:09,439 - pratice -INFO - user name provided
+2020-04-23 19:09:09,625 - pratice -INFO - password provided
+2020-04-23 19:09:27,195 - pratice -INFO - URL is Opened 
+2020-04-23 19:09:27,612 - pratice -INFO - Entered Username 
+2020-04-23 19:09:27,876 - pratice -INFO - Entered Password 
+2020-04-23 19:09:29,743 - pratice -INFO - Login test passed
+2020-04-27 15:14:55,795 - pratice -INFO - URL is Opened 
+2020-04-27 15:15:18,795 - pratice -INFO - user name provided
+2020-04-27 15:15:19,525 - pratice -INFO - password provided
+2020-04-27 15:15:26,430 - pratice -INFO - user name provided
+2020-04-27 15:15:26,754 - pratice -INFO - password provided
+2020-04-27 15:15:32,692 - pratice -INFO - user name provided
+2020-04-27 15:15:33,388 - pratice -INFO - password provided
+2020-04-27 15:15:33,659 - pratice -INFO - URL is Opened 
+2020-04-27 15:15:37,165 - pratice -INFO - Entered Username 
+2020-04-27 15:15:37,643 - pratice -INFO - Entered Password 
+2020-04-27 15:15:39,156 - pratice -INFO - Login passed
+2020-04-27 15:15:40,120 - pratice -INFO - Login test passed
+2020-04-27 15:15:46,818 - pratice -INFO - user name provided
+2020-04-27 15:15:47,245 - pratice -INFO - password provided
+2020-04-27 15:15:53,618 - pratice -INFO - user name provided
+2020-04-27 15:15:54,445 - pratice -INFO - password provided
+2020-04-27 15:15:59,875 - pratice -INFO - Login passed
+2020-04-27 15:16:01,073 - pratice -INFO - user name provided
+2020-04-27 15:16:02,335 - pratice -INFO - password provided
+2020-04-27 15:16:09,344 - pratice -INFO - user name provided
+2020-04-27 15:16:09,560 - pratice -INFO - password provided
+2020-04-27 15:24:51,524 - pratice -INFO - URL is Opened 
+2020-04-28 11:48:19,690 - pratice -INFO - URL is Opened 
+2020-04-28 11:48:22,207 - pratice -INFO - Entered Username 
+2020-04-28 11:48:23,379 - pratice -INFO - Entered Password 
+2020-04-28 11:48:25,752 - pratice -INFO - Login test passed
+2020-04-28 11:48:38,101 - pratice -INFO - User name is provided
+2020-04-28 11:48:39,444 - pratice -INFO - Passsword is provided
+2020-04-28 11:48:44,540 - pratice -INFO - providing customer details....
+2020-04-28 11:48:59,788 - pratice -INFO - validation started....
+2020-04-28 11:48:59,820 - pratice -INFO - test case passed....
+2020-04-28 13:34:11,529 - pratice -INFO - URL is Opened 
+2020-04-28 13:34:14,037 - pratice -INFO - Entered Username 
+2020-04-28 13:34:14,255 - pratice -INFO - Entered Password 
+2020-04-28 13:34:16,154 - pratice -INFO - Login test passed
+2020-04-28 13:34:30,005 - pratice -INFO - User name is provided
+2020-04-28 13:34:30,590 - pratice -INFO - Passsword is provided
+2020-04-28 13:34:37,466 - pratice -INFO - providing customer details....
+2020-04-28 13:34:51,709 - pratice -INFO - validation started....
+2020-04-28 13:36:21,418 - pratice -INFO - URL is Opened 
+2020-04-28 13:36:21,994 - pratice -INFO - Entered Username 
+2020-04-28 13:36:22,344 - pratice -INFO - Entered Password 
+2020-04-28 13:36:40,840 - pratice -INFO - User name is provided
+2020-04-28 13:36:41,236 - pratice -INFO - Passsword is provided
+2020-04-28 13:36:47,426 - pratice -INFO - providing customer details....
+2020-04-28 13:37:02,446 - pratice -INFO - validation started....
+2020-04-28 13:37:02,478 - pratice -INFO - test case passed....
+2020-04-28 13:44:48,855 - pratice -INFO - URL is Opened 
+2020-04-28 13:44:49,561 - pratice -INFO - Entered Username 
+2020-04-28 13:44:49,840 - pratice -INFO - Entered Password 
+2020-04-28 13:44:51,899 - pratice -INFO - Login test passed
+2020-04-28 13:45:04,436 - pratice -INFO - User name is provided
+2020-04-28 13:45:04,686 - pratice -INFO - Passsword is provided
+2020-04-28 13:45:10,705 - pratice -INFO - providing customer details....
+2020-04-28 13:45:25,754 - pratice -INFO - validation started....
+2020-04-28 13:45:25,787 - pratice -INFO - test case passed....
+2020-04-28 13:47:38,714 - pratice -INFO - URL is Opened 
+2020-04-28 13:47:40,333 - pratice -INFO - Entered Username 
+2020-04-28 13:47:40,871 - pratice -INFO - Entered Password 
+2020-04-28 13:47:44,098 - pratice -INFO - Login test passed
+2020-04-28 13:48:01,878 - pratice -INFO - User name is provided
+2020-04-28 13:48:02,299 - pratice -INFO - Passsword is provided
+2020-04-28 13:48:08,512 - pratice -INFO - providing customer details....
+2020-04-28 13:48:22,468 - pratice -INFO - validation started....
+2020-04-28 13:53:38,323 - pratice -INFO - URL is Opened 
+2020-04-28 13:53:38,690 - pratice -INFO - Entered Username 
+2020-04-28 13:53:38,951 - pratice -INFO - Entered Password 
+2020-04-28 13:53:41,082 - pratice -INFO - Login test passed
+2020-04-28 13:53:53,052 - pratice -INFO - User name is provided
+2020-04-28 13:53:53,357 - pratice -INFO - Passsword is provided
+2020-04-28 13:53:59,940 - pratice -INFO - providing customer details....
+2020-04-28 13:54:17,372 - pratice -INFO - validation started....
+2020-04-28 13:54:17,415 - pratice -INFO - test case passed....
+2020-04-28 14:04:41,448 - pratice -INFO - URL is Opened 
+2020-04-28 14:04:42,782 - pratice -INFO - Entered Username 
+2020-04-28 14:04:43,006 - pratice -INFO - Entered Password 
+2020-04-28 14:04:44,744 - pratice -INFO - Login test passed
+2020-04-28 14:04:58,103 - pratice -INFO - User name is provided
+2020-04-28 14:04:58,677 - pratice -INFO - Passsword is provided
+2020-04-28 14:05:04,474 - pratice -INFO - providing customer details....
+2020-04-28 14:05:19,484 - pratice -INFO - validation started....
+2020-04-28 14:05:19,533 - pratice -INFO - test case passed....
+2020-04-28 14:06:40,906 - pratice -INFO - URL is Opened 
+2020-04-28 14:06:41,795 - pratice -INFO - Entered Username 
+2020-04-28 14:06:42,566 - pratice -INFO - Entered Password 
+2020-04-28 14:06:44,323 - pratice -INFO - Login test passed
+2020-04-28 14:06:58,337 - pratice -INFO - User name is provided
+2020-04-28 14:06:58,642 - pratice -INFO - Passsword is provided
+2020-04-28 14:07:03,125 - pratice -INFO - providing customer details....
+2020-04-28 14:07:18,558 - pratice -INFO - validation started....
+2020-04-28 14:07:18,597 - pratice -INFO - test case passed....
+2020-04-28 16:19:06,025 - pratice -INFO - URL is Opened 
+2020-04-28 16:19:06,393 - pratice -INFO - Entered Username 
+2020-04-28 16:19:06,630 - pratice -INFO - Entered Password 
+2020-04-28 16:19:08,380 - pratice -INFO - Login test passed
+2020-04-28 16:19:21,198 - pratice -INFO - User name is provided
+2020-04-28 16:19:21,430 - pratice -INFO - Passsword is provided
+2020-04-28 16:19:28,124 - pratice -INFO - providing customer details....
+2020-04-28 16:20:18,001 - pratice -INFO - validation started....
+2020-04-28 16:20:18,072 - pratice -INFO - test case passed....
+2020-04-28 17:58:01,878 - pratice -INFO - URL is Opened 
+2020-04-28 17:58:23,033 - pratice -INFO - Entered Username 
+2020-04-28 17:58:42,534 - pratice -INFO - Entered Password 
+2020-04-28 17:59:09,541 - pratice -INFO - Login test passed
+2020-04-28 17:59:34,402 - pratice -INFO - User name is provided
+2020-04-28 17:59:34,590 - pratice -INFO - Passsword is provided
+2020-04-28 17:59:40,564 - pratice -INFO - providing customer details....
+2020-04-28 17:59:55,738 - pratice -INFO - validation started....
+2020-04-28 17:59:55,764 - pratice -INFO - test case passed....
+2020-04-29 17:11:06,488 - pratice -INFO - URL is Opened 
+2020-04-29 17:11:08,876 - pratice -INFO - Entered Username 
+2020-04-29 17:11:09,090 - pratice -INFO - Entered Password 
+2020-04-29 17:11:10,906 - pratice -INFO - Login test passed
+2020-04-29 17:11:54,249 - pratice -INFO - User name is provided
+2020-04-29 17:12:13,743 - pratice -INFO - Passsword is provided
+2020-04-29 17:12:55,242 - pratice -INFO - providing customer details....
+2020-04-29 17:17:13,795 - pratice -INFO - URL is Opened 
+2020-04-29 17:17:37,944 - pratice -INFO - Entered Username 
+2020-04-29 17:17:55,843 - pratice -INFO - Entered Password 
+2020-04-29 17:18:23,080 - pratice -INFO - Login test passed
+2020-04-29 17:19:13,514 - pratice -INFO - User name is provided
+2020-04-29 17:19:31,228 - pratice -INFO - Passsword is provided
+2020-04-29 17:19:37,267 - pratice -INFO - providing customer details....
+2020-04-29 17:19:53,417 - pratice -INFO - validation started....
+2020-04-29 17:19:53,449 - pratice -INFO - test case passed....
+2020-04-30 08:24:01,605 - pratice -INFO - URL is Opened 
+2020-04-30 08:24:02,290 - pratice -INFO - Entered Username 
+2020-04-30 08:24:03,056 - pratice -INFO - Entered Password 
+2020-04-30 08:24:04,689 - pratice -INFO - Login test passed
+2020-04-30 08:24:15,014 - pratice -INFO - User name is provided
+2020-04-30 08:24:15,357 - pratice -INFO - Passsword is provided
+2020-04-30 08:24:21,425 - pratice -INFO - providing customer details....
+2020-04-30 08:24:36,771 - pratice -INFO - validation started....
+2020-04-30 08:24:36,802 - pratice -INFO - test case passed....
+2020-04-30 08:26:02,159 - pratice -INFO - URL is Opened 
+2020-04-30 08:26:25,453 - pratice -INFO - Entered Username 
+2020-04-30 08:26:48,116 - pratice -INFO - Entered Password 
+2020-04-30 08:27:20,191 - pratice -INFO - Login test passed
+2020-04-30 08:28:11,882 - pratice -INFO - User name is provided
+2020-04-30 08:28:29,851 - pratice -INFO - Passsword is provided
+2020-04-30 08:29:16,729 - pratice -INFO - providing customer details....
+2020-04-30 08:35:59,388 - pratice -INFO - URL is Opened 
+2020-04-30 08:36:01,145 - pratice -INFO - Entered Username 
+2020-04-30 08:36:01,351 - pratice -INFO - Entered Password 
+2020-04-30 08:36:18,376 - pratice -INFO - User name is provided
+2020-04-30 08:36:18,683 - pratice -INFO - Passsword is provided
+2020-04-30 08:36:24,533 - pratice -INFO - providing customer details....
+2020-04-30 08:36:39,295 - pratice -INFO - validation started....
+2020-04-30 08:36:39,337 - pratice -INFO - test case passed....
+2020-04-30 08:38:35,189 - pratice -INFO - URL is Opened 
+2020-04-30 08:38:59,715 - pratice -INFO - Entered Username 
+2020-04-30 08:39:21,411 - pratice -INFO - Entered Password 
+2020-04-30 08:39:40,347 - pratice -INFO - Login test passed
+2020-04-30 08:40:20,972 - pratice -INFO - User name is provided
+2020-04-30 08:40:21,232 - pratice -INFO - Passsword is provided
+2020-04-30 08:40:25,435 - pratice -INFO - providing customer details....
+2020-04-30 08:40:40,718 - pratice -INFO - validation started....
+2020-04-30 08:40:40,758 - pratice -INFO - test case passed....
+2020-04-30 11:06:16,429 - pratice -INFO - URL is Opened 
+2020-04-30 11:06:19,522 - pratice -INFO - Entered Username 
+2020-04-30 11:06:20,719 - pratice -INFO - Entered Password 
+2020-04-30 11:06:22,897 - pratice -INFO - Login test passed
+2020-04-30 11:06:34,805 - pratice -INFO - User name is provided
+2020-04-30 11:06:35,733 - pratice -INFO - Passsword is provided
+2020-04-30 11:06:41,681 - pratice -INFO - providing customer details....
+2020-04-30 11:06:57,078 - pratice -INFO - validation started....
+2020-04-30 11:06:57,119 - pratice -INFO - test case passed....
+2020-04-30 11:13:06,329 - pratice -INFO - URL is Opened 
+2020-04-30 11:13:12,820 - pratice -INFO - Entered Username 
+2020-04-30 11:13:13,014 - pratice -INFO - Entered Password 
+2020-04-30 11:13:14,893 - pratice -INFO - Login test passed
+2020-04-30 11:13:34,215 - pratice -INFO - User name is provided
+2020-04-30 11:13:35,453 - pratice -INFO - Passsword is provided
+2020-04-30 11:13:41,425 - pratice -INFO - providing customer details....
+2020-04-30 11:13:56,852 - pratice -INFO - validation started....
+2020-04-30 11:13:56,892 - pratice -INFO - test case passed....
+2020-05-08 13:51:13,585 - pratice -INFO - User name is provided
+2020-05-08 13:51:13,902 - pratice -INFO - Passsword is provided
+2020-05-08 13:51:25,803 - pratice -INFO - providing customer details....
+2020-05-08 13:51:40,806 - pratice -INFO - validation started....
+2020-05-08 13:51:40,844 - pratice -INFO - test case passed....
+2020-05-08 19:55:22,098 - pratice -INFO - URL is Opened 
+2020-05-08 19:55:22,479 - pratice -INFO - Entered Username 
+2020-05-08 19:55:22,724 - pratice -INFO - Entered Password 
+2020-05-08 19:55:25,014 - pratice -INFO - Login test passed
+2020-05-08 19:55:37,630 - pratice -INFO - User name is provided
+2020-05-08 19:55:37,842 - pratice -INFO - Passsword is provided
+2020-05-08 19:55:44,474 - pratice -INFO - providing customer details....
+2020-05-08 19:55:59,850 - pratice -INFO - validation started....
+2020-05-08 19:55:59,883 - pratice -INFO - test case passed....
+2020-05-10 12:36:54,557 - pratice -INFO - URL is Opened 
+2020-05-10 12:36:55,548 - pratice -INFO - Entered Username 
+2020-05-10 12:36:55,803 - pratice -INFO - Entered Password 
+2020-05-10 12:36:57,756 - pratice -INFO - Login test passed
+2020-05-10 12:37:08,167 - pratice -INFO - User name is provided
+2020-05-10 12:37:08,474 - pratice -INFO - Passsword is provided
+2020-05-10 12:37:17,052 - pratice -INFO - providing customer details....
+2020-05-10 12:37:31,987 - pratice -INFO - validation started....
+2020-05-10 12:37:32,024 - pratice -INFO - test case passed....

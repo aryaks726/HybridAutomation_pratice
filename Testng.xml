@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Pratice">
+
+	<listeners>
+		<listener class-name="com.pratice.utilities.Reporting" />
+	</listeners>
+
+
+	<test name="Pratice Test">
+		<parameter name="browser" value="chrome" /> <!-- Change value parameter with fire fox or other to launch different browser -->
+		<classes>
+			<class name="com.pratice.testCases.TC_LoginTest" />
+			<!-- <class name="com.pratice.testCases.TC_LoginDDT" /> -->
+			<class name="com.pratice.testCases.TC_AddCustomerTest" />
+
+		</classes>
+
+	</test>
+
+</suite>
